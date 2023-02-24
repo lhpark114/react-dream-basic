@@ -1,11 +1,11 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import './App.css';
-import AppProfile from './AppProfile'
+import AppCounter from './AppCounter'
 
 const root = ReactDOM.createRoot(document.getElementById('root')).render(
 	<React.StrictMode>
-		<AppProfile />
+		<AppCounter />
 	</React.StrictMode>
 )
 
