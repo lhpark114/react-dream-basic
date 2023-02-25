@@ -5,7 +5,7 @@ function AppProfile() {
   const handleClick = (event) => {
     console.log(event);
     alert('버튼이 클릭됨!');
-  };
+  };a
   
   return (
     <>    
